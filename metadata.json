@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Management System",
+  "description": "Java console-based Personal Finance Management System with interactive terminal simulator, complete OOP source code, and IDE guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
